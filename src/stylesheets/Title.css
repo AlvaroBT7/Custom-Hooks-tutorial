@@ -1,0 +1,11 @@
+.Title {
+  background-color: #000;
+  color: #fff;
+  display: inline-block;
+}
+
+.Title.tieneBrillo {
+  background-color: #777;
+  color: #222;
+  padding: 20px;
+}

@@ -1,0 +1,14 @@
+.Card {
+    background-color: #222731;
+    color: #fff;
+    display: inline-block;
+    padding: 20px;
+    font-family: sans-serif;
+    user-select: none;
+    transition: all 0.2s;
+}
+
+.Card.hasGlow {
+    background-color: #0ea9e1;
+    border-radius: 0.5em;
+}
